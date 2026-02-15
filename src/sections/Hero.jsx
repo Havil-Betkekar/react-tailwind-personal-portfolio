@@ -93,7 +93,7 @@ const Hero = () => {
                 </Button>
               </a>
               <a
-                href="/Havil_Betkekar_CV.pdf"
+                href="/havil_betkekar_cv.pdf"
                 download
                 className="inline-flex items-center gap-2"
               >
