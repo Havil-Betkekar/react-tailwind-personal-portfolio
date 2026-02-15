@@ -69,19 +69,20 @@ const Hero = () => {
               </span>
             </div>
             <div className="space-y-4">
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in animation-delay-100">
+              <h1 className="text-5xl md:text-6xl lg:text-6xl font-bold leading-tight animate-fade-in animation-delay-100">
                 Turning <span className="text-primary glow-text">designs</span>
                 <br />
-                into systems
+                into scalable React systems
                 <br />
                 <span className="font-serif italic font-normal text-white">
-                  not screenshots
+                  —not static pages
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
                 Hi, I'm Havil V Betkekar — Frontend developer focused on React,
-                performance, and maintainable UI systems. I build interfaces
-                that scale without breaking.
+                performance, and maintainable UI systems. I build
+                production-grade, API-driven UI systems with performance
+                optimization and reusable component architecture.
               </p>
             </div>
             {/* CTAs */}

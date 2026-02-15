@@ -59,17 +59,15 @@ const About = () => {
               </p>
 
               <p>
-                I specialize in building scalable UI systems using React,
-                TypeScript, and modern styling frameworks like Tailwind CSS and
-                Material UI. I focus on performance optimization, reducing
-                unnecessary re-renders, and maintaining predictable data flow.
+                I primarily work with modern JavaScript (ES6+) and React to
+                build reusable, maintainable UI systems with clear structure and
+                predictable behavior. I’ve also worked within TypeScript-based
+                codebases and understand typed component development.
               </p>
 
               <p>
-                I’ve worked across startups and structured environments,
-                contributing to real-world applications used by clients and
-                internal teams. My priority is building interfaces that are easy
-                to maintain, extend, and reason about.
+                I’ve worked across startups and structured teams, contributing
+                to production systems used by clients and internal stakeholders.
               </p>
             </div>
 

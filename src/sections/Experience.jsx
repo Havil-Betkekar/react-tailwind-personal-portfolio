@@ -6,7 +6,7 @@ const experiences = [
     role: "Web Developer",
     company: "Axzora.ltd",
     description:
-      "Led the frontend structure and developed production-ready React applications with fully responsive layouts. Integrated REST APIs with proper data handling, managed component-level state efficiently, and improved rendering performance by reducing unnecessary re-renders.",
+      "Developed and maintained production-ready React applications with responsive layouts. Integrated REST APIs, managed component-level state, and improved rendering performance by reducing unnecessary re-renders.",
     technologies: [
       "React",
       "JavaScript",
@@ -76,8 +76,7 @@ const Experience = () => {
             className="text-muted-foreground
            animate-fade-in animation-delay-200"
           >
-            A timeline of my professional growth, from curious beginner to
-            senior engineer leading teams and building products at scale.
+            A timeline of my journey building production-ready frontend systems.
           </p>
         </div>
 

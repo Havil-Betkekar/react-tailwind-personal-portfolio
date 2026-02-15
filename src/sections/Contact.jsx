@@ -105,8 +105,8 @@ const Contact = () => {
             </span>
           </h2>
           <p className="text-muted-foreground animate-fade-in animation-delay-200">
-            Have a project in mind? I'd love to hear about it. Send me a message
-            and let's discuss how we can work together.
+            Have a project or opportunity in mind? I'd love to hear about it.
+            Send a message and I’ll get back to you shortly.
           </p>
         </div>
 
